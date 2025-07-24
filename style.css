@@ -17,12 +17,10 @@ footer {
     width: 100%;
     background-color: #686F79;
     height: 200px;
-}
-
-.footermain {
     position: absolute;
     bottom: 0;
 }
+
 
 footer .col {
     margin-top: 40px;
@@ -59,7 +57,7 @@ footer i {
 }
 
 .carro {
-    width: 400px;
+    height: 220px;
     margin-top: 20px;
 }
 
@@ -70,9 +68,4 @@ footer i {
 
 h2 {
     padding: 20px 0;
-}
-
-.separador {
-    height: 40px;
-    background-color: #828282;
 }
